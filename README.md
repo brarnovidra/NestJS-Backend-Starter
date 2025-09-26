@@ -73,8 +73,8 @@ Project ini bisa dipakai sebagai **base** untuk aplikasi skala kecil hingga besa
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-org/nestjs-backend-starter.git
-cd nestjs-backend-starter
+git clone https://github.com/brarnovidra/NestJS-Backend-Starter.git
+cd NestJS-Backend-Starter
 ```
 
 ### 2. Buat `.env`
